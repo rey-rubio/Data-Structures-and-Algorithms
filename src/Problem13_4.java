@@ -1,4 +1,7 @@
-
+// Reynerio Rubio
+// ID# 109899097
+// ESE 554: Computational Models for Computer Engineers
+// Chapter 13 Assignments
 
 
 // Problem13.4
